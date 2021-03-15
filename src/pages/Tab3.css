@@ -1,0 +1,36 @@
+.wallet-button {
+    width: 100%;
+    text-align: center;
+    height: auto;
+    border-radius: 10px;
+    padding: 15px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+  }
+  .center {
+    width: 100%;
+    text-align: center;
+    height: 55px;
+    border-radius: 1px;
+    padding: 5px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+  }
+  .text-center {
+    text-align: center;
+  }
+  .large-title {
+    font-size: 30px;
+    text-align: left;
+  }
+  .test {
+    color: rgb(78, 155, 228);
+  }
+  .test2 {
+    color: rgb(139, 245, 144);
+  }
+  .xxx{
+    white-space: normal;
+  }
